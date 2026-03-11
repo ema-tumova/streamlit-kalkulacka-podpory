@@ -10,3 +10,6 @@ V aplikaci uživatel zadá věk a příjem. Na základě zadaných údajů a pra
 
 <ins>Použité technologie:<ins>
 - **Python: streamlit, pandas**
+
+<ins>Aplikace na produkci:<ins>
+- https://kalkulacka-podpory.streamlit.app/
